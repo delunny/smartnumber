@@ -1,3 +1,3 @@
 # smartnumber
 smart number
-an excellent idea!
+a excellent idea!
