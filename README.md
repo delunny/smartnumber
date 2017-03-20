@@ -1,3 +1,3 @@
 # smartnumber
 smart number
-in master
+in mybranch
